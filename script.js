@@ -9,11 +9,11 @@ const secciones = [
       { name: "Brochette de mariscos", desc: "Con salsa de yogur y cremoso de calabaza", price: "$16999", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmSnwOC1luCrTcFiDRqpqhzp2oFPOMS3dVGg&s" },
       { name: "Rabas", desc: "Con fritas y alioli", price: "$17499", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJmdQWxlf8Q8uCjojxP--S6eT3m1COOA5Bg&s" },
       { name: "Ñoquis de papa y queso", desc: "Con salsa boloñesa, filetto, mixta o crema", price: "$7899", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL2O2cgen0GXznuTnDp10iFGya5Mb-aOy-gg&s" },
-      { name: "Menu del día", desc: "Consultar opción", price: "$6999", image: "/images/MenuDia.png"},
+      { name: "Menu del día", desc: "Consultar opción", price: "$6999", image: "images/MenuDia.png"},
       { name: "Empanada criolla", desc: "De carne cortada a cuchillo", price: "$1699", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMt_i9HMQpxFHTPR4fpvkWG-LTQxybAxO1fw&s" },
       { name: "Wrap de pollo y vegetales", desc: "Con alioli y queso, con papas rusticas", price: "$7899", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfMzzo7pocBOONlxDf-KclmBccQYk2LpD0ew&s" },
       { name: "Pollo al curry", desc: "Con arroz yamani, coco, menta y limon", price: "$9499", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScAta8lTVBDGu6pNTqgtS68kBvkWZbclrRFw&s" },
-      { name: "Menu ejecutivo", desc: "Menu del dia + bebida sin alcohol + café (consumo en el local)", price: "$10499", image: "/images/MenuEjecutivo.png" }
+      { name: "Menu ejecutivo", desc: "Menu del dia + bebida sin alcohol + café (consumo en el local)", price: "$10499", image: "images/MenuEjecutivo.png" }
     ]
   },
   {
